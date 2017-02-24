@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "77016515911",
+    "firebase_url": "https://jiaye-photo-bucket.firebaseio.com",
+    "project_id": "jiaye-photo-bucket",
+    "storage_bucket": "jiaye-photo-bucket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77016515911:android:f1dc68e07af7c1c6",
+        "android_client_info": {
+          "package_name": "edu.rose_hulman.suj1.photobucket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77016515911-gdnffv5k6dflq2041hlvod8rn116bu1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4X735qLNOui6uDPVMY6Ije8Zmk21ha0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

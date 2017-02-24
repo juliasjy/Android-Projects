@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "229242512877",
+    "firebase_url": "https://jiaye-password-keeper.firebaseio.com",
+    "project_id": "jiaye-password-keeper",
+    "storage_bucket": "jiaye-password-keeper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229242512877:android:e990c52a0f880fe5",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.passwordkeeper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229242512877-o2315olrostq1am9v220htfc6vf7kge6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.rosehulman.passwordkeeper",
+            "certificate_hash": "0CC77C09BA1C96FB329BAC1809B2603855F492C0"
+          }
+        },
+        {
+          "client_id": "229242512877-v4in9gvm76a74giaah1aps6lgc4ig7is.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrHNkoodlIDT5G7tqtn6TotmWxWiNFyuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "229242512877-v4in9gvm76a74giaah1aps6lgc4ig7is.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

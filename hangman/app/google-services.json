@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "473471693065",
+    "firebase_url": "https://jiaye-hangman.firebaseio.com",
+    "project_id": "jiaye-hangman",
+    "storage_bucket": "jiaye-hangman.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473471693065:android:e7788a4158f26b2e",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.hangman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473471693065-acqobsg5i80oi7tvu0a61n04ii1irf5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uoIG156k1sLWFijzNQx1IMn_UlbvhMQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

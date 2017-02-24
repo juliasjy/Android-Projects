@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.rose_hulman.suj1.pointofsale.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_Clear"
+        android:orderInCategory="150"
+        android:title="@string/action_clear"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/reset"
+        android:icon="@android:drawable/ic_menu_revert"/>
+
+    <item
+        android:id="@+id/action_search"
+        android:orderInCategory="50"
+        app:showAsAction="ifRoom"
+        android:title="@string/search"
+        android:icon="@android:drawable/ic_menu_search"/>
+</menu>

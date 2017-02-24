@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="edu.rose_hulman.suj1.exam2_suj1.MainActivity">
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_reset"
+        android:orderInCategory="150"
+        android:title="@string/reset"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_refresh_white_24dp" />
+
+    <item
+        android:id="@+id/action_like"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="@string/like"
+        android:icon="@drawable/ic_favorite_white_24dp"/>
+
+</menu>

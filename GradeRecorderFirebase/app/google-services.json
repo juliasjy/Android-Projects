@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "332731165255",
+    "firebase_url": "https://jiaye-grade-recorder.firebaseio.com",
+    "project_id": "jiaye-grade-recorder",
+    "storage_bucket": "jiaye-grade-recorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332731165255:android:1c8f9b456a1f5d06",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.graderecorderfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332731165255-go3si7r48a5v1fb8d156n0lnit68un6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2-FIrS33Rj3_0FdN3gGKYu13cnvK_X18"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

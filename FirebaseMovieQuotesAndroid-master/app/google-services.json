@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "269156356195",
+    "firebase_url": "https://jiaye-movie-quotes.firebaseio.com",
+    "project_id": "jiaye-movie-quotes",
+    "storage_bucket": "jiaye-movie-quotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269156356195:android:b571312a233e6030",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.moviequotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269156356195-pti0brvggbbhf6o478v9mpsdp08rq7um.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],"api_key": [
+      {
+        "current_key": "AIzaSyACchGf8FqyC1pBfUN-K3w0I0tV-CevvDs"
+      }
+    ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

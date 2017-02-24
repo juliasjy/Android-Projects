@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "708201339146",
+    "firebase_url": "https://jiaye-favorite-things.firebaseio.com",
+    "project_id": "jiaye-favorite-things",
+    "storage_bucket": "jiaye-favorite-things.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708201339146:android:f8222863110d4409",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.favoritethings"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708201339146-nsbkukq39ktt38fb5rvi4ig542mbmtj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXVsNCbVaHBD-TAhRDeVNJF28FQQz10FQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
